@@ -1,2 +1,3 @@
 # RustyInk-themes
-Themes for RustyInk
+
+Themes for [RustyInk](https://rustyink.cli.rs)
